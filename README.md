@@ -3,6 +3,8 @@
 ## Lab Overview
 This lab demonstrates the configuration of an **IPv4/IPv6 dual-stack network**, where devices are configured with both IPv4 and IPv6 addresses. The lab ensures full connectivity across the network for both protocols by enabling IPv6 routing, assigning IPv6 addresses to routers and PCs, and verifying connectivity with ping tests.
 
+<img src= "https://github.com/ro-drick/IPv6-Configuration/blob/main/ipv6.PNG">
+
 ### Topology Details:
 - **Router:** Cisco 2911 (R1)
 - **Switches:** 3 x Cisco 2960-24TT (SW1, SW2, SW3)
